@@ -20,7 +20,7 @@
     "@tanstack/react-router-ssr-query": "^1.167.3",
     "@tanstack/react-start": "^1.168.60",
     "@tanstack/router-plugin": "^1.168.42",
-    "appwrite": "^21.2.1",
+    "appwrite": "^29.0.0",
     "lucide-react": "^0.544.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
